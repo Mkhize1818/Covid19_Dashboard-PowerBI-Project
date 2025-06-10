@@ -38,4 +38,5 @@ In summary:
 Vaccination made a real difference in reducing deaths in South Africa, but trends and outcomes varied widely across Africa due to different waves, health systems, and data quality. Careful data preparation helped us draw these insights and provided a more accurate picture of Covid-19’s effects.
 
 The data and dashboard can be found in the link below:
+
 https://drive.google.com/drive/folders/14a6BOpXGE2izPcjPnMpiWzUFmB2_m973?usp=sharing
